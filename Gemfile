@@ -5,8 +5,8 @@ gem 'rails', '3.0.7'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
-
+#gem 'sqlite3'
+gem 'mysql2', '0.2.7'
 gem 'russian', :git => 'git://github.com/yaroslav/russian.git'
 gem 'spree', :git => 'git://github.com/spree/spree.git', :branch => '0-60-stable' 
 # либо gem 'spree', '>= 0.50.2'
